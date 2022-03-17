@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="assets/kanapitabot v1-01.png" alt="Kanapita Bot Logo">
 </p>
 <h1 align="center">
   <b>Kanapita Filter Bot</b>
